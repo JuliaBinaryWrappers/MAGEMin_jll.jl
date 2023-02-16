@@ -1,10 +1,9 @@
 name = "MAGEMin_jll"
 uuid = "763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4"
-version = "1.2.7+0"
+version = "1.2.8+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 NLopt_jll = "079eb43e-fd8e-5478-9966-2cf3e3edb778"
 OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
