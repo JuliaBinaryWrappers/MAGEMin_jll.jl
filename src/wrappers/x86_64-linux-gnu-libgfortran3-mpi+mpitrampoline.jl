@@ -5,7 +5,6 @@ using NLopt_jll
 using OpenBLAS32_jll
 using CompilerSupportLibraries_jll
 using MPItrampoline_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("MAGEMin")
 JLLWrappers.@declare_library_product(libMAGEMin, "libMAGEMin.so")
 JLLWrappers.@declare_executable_product(MAGEMin)
