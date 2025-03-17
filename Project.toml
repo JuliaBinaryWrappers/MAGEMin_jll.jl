@@ -1,6 +1,6 @@
 name = "MAGEMin_jll"
 uuid = "763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4"
-version = "1.7.1+0"
+version = "1.7.2+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -23,7 +23,7 @@ Libdl = "< 0.0.1, 1"
 NLopt_jll = "=2.8.0"
 LazyArtifacts = "< 0.0.1, 1"
 JLLWrappers = "1.7.0"
-MPICH_jll = "4.2.3 - 4"
+MPICH_jll = "4.3.0 - 4"
 Artifacts = "< 0.0.1, 1"
 julia = "1.6"
 MPItrampoline_jll = "5.3.1"
