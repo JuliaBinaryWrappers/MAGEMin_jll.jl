@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("MAGEMin")
-JLLWrappers.@generate_main_file("MAGEMin", UUID("763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4"))
+JLLWrappers.@generate_main_file("MAGEMin", Base.UUID("763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4"))
 end  # module MAGEMin_jll
