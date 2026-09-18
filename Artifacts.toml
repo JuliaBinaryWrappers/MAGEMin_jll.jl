@@ -1,159 +1,159 @@
 [[MAGEMin]]
 arch = "aarch64"
-git-tree-sha1 = "dc96bad20b4c9e1ae087b4a483d8815fe074d902"
+git-tree-sha1 = "a489d8a5e767f4a6ea5d353047f5833f812d8023"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[MAGEMin.download]]
-    sha256 = "687459135e6f3d61bb60aef529839078e4205c3dc04da1e37eeeeeaa6916362a"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "7fd4b0533e225ec21e2e1ae52a1ed1397d471a712d1f47179c5df62464062ff1"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
-git-tree-sha1 = "b95c7c19cea925c788e9d8cda994085291bd09ef"
+git-tree-sha1 = "58a810157fe2e178a811213dd8710999b465156c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "a6ae7fd0b3c891d775443e53561c2dda8c13ff6e853fc47ad4813dad9b21f379"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b137577ce782cbe71cd3eb49a425cdc8e58a0f91bd81ca4637ebf1a32668afb0"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
-git-tree-sha1 = "61e897bcd5c0edc08f3d51d7bcdb4355cf0716b3"
+git-tree-sha1 = "b8a2ff05b540ef4587a54e3865efdbc9c93abcd5"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "a254e1a0bfd917dcef34c41936241f30dd81ef197ffa444586232f8072af24f7"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "bccc48bdbef2c3ce975ad5637fdf7d0cff6a9a2db6c45d44a0d3afefe7f62168"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.aarch64-linux-musl-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f833f741ff1247c464f12ba92bbe1f3fc5f8cfab"
+git-tree-sha1 = "b303d48197d4acbd049c1016f727c6bb5ee5bb63"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "a0eb75b0a3e7acd88c35277451b16c5f3d963709ada596572d771e93474caaa0"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "9bfc36c101e3d463257a1f7a977101e46d5c8658e776358c688b341dcfef123b"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d4555875e8e2d7e1129a89e7a1dce3dabe28b6d"
+git-tree-sha1 = "bb01be6754eafe8362429f5eb7a170f95256bd18"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "04788b1195ed4669cf80013385ed20aa765b70599d6d606e4fa8bd686c414066"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "dc6d5b0f1f478ba6407ff0e6619fd3a8a419af3648ecea384b1f8291b0af031a"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a362ee2240cba1d2a209d099f173125af180cc54"
+git-tree-sha1 = "52f61352b9a3f2641cf3f9502910ff51bfd11b32"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "cfecdb878d2431e159da664af3a162248285700361959dd74d2531e4e25ae58d"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "484a5721100362ec3c0a4909daf4bfc679e8e820a5c85dc55d1db2310f02fb32"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0f085267539b1d83ae470b0c0ef16a76ad7803a4"
+git-tree-sha1 = "45246f4d2a2377fd0aee50672a178359b741a0b9"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "0c026df8e0bb3b38fa83b6d92cdae0f81bd1a706ed00224f56b3c69446539073"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "fe37fb418494f05638f83c32a546e69c0294b0b3279695e6938e025b1356a41c"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "i686"
-git-tree-sha1 = "62f675564b61262811ac1f92a8b0ebabc45e87f4"
+git-tree-sha1 = "f4baf951ef5f092d75089eb45baf97190eff90c2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "9a72ecea54e069ae276edb0369e11bf9f959bc551d03ed5b12e804f08178bb74"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "5704a9b34e87ce72a3412ee2779759ad93772152ac82751f5692a5f777359438"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.i686-linux-gnu-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "i686"
-git-tree-sha1 = "7f8956a622361f7fbda53b4ac1e267406396a61a"
+git-tree-sha1 = "3b72f009c0e7e0e5c048ee40cb93fe09dd6d7622"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "c017b84d98fd3fb366b5f5220768b91b023982540610732d1cd5d05429d34e22"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "e39039c0e0968adfe84ba05149188f7e77420084c2388facee126c68259ca00c"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.i686-linux-musl-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "i686"
-git-tree-sha1 = "3360a65d96b9c5da7875d34eca7a97e7f6cf36d2"
+git-tree-sha1 = "12fbfc7422fd30a379ef21b4713661a45652bef7"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MAGEMin.download]]
-    sha256 = "27b0011e758be7e4787a74e75aeb16166ed0fed506ed6035732053b9363ca1fa"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "a679b5d57030f36e9f0a0618376397fb987c9d310442e75d37f21cc052ca4236"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.i686-w64-mingw32-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
-git-tree-sha1 = "f0c7b56d67411504682a2ffa6ef87b2ea7c93141"
+git-tree-sha1 = "761ffb3456b6ba4321bc8622db947a7a0c0de1c4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "99f07720c5848548716cf04a24682b05b9540815379302f059c34bd5f1859ea9"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "9cc8e9acad5d7c563408206ef79ec6a9071bfbb6e873681cce94682919c565ec"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
-git-tree-sha1 = "012d76555a90fd9775c87b19e849daeedd231f72"
+git-tree-sha1 = "32cc883218a0151e81ad136fea83b3396de175b8"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[MAGEMin.download]]
-    sha256 = "ede7ff77d70c7a00f55ab85b2cf142bde5374c61668636f44c2126648167272f"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "acd412e0f44d13023bbc56c07e29b4db901a9015acf03bb645696fc5e03444e1"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
-git-tree-sha1 = "256bb23e9ff356f9f56b76af1a9b883257634786"
+git-tree-sha1 = "df2980f7b8a34f74e8a2e0e585e4374a1c06f958"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "a68df7ecb38266e2b99f3819bba5eddbe7c4810356cee6d7396b2ea6f55fdcf5"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a46f9ab1524b0c7a138bcde3ed109fe1ed79d1a316fb8a29403c6229b44110e5"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
-git-tree-sha1 = "842973c296bbaf19dede14b4cf6055e11a266352"
+git-tree-sha1 = "cd65371077f5eb3b1f12d189c1cffbb6ec816113"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[MAGEMin.download]]
-    sha256 = "65b932834334aa67c2aa2d0684c3916e670c599118a40d976f83ca042c4cd748"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "e4a5b57506b28006dd880e187da1a1724273b548124d3819c8e3ec605aa69a2c"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.x86_64-linux-musl-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
-git-tree-sha1 = "210b0f9d010041eacec2933c69385a2a4ec1a32b"
+git-tree-sha1 = "95836bc308cefaea6950c18f8359ad9d5b96e88b"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[MAGEMin.download]]
-    sha256 = "17490d8ace56e8b486f579f86d57ca3ad26c559921ee62c121663e72966e7159"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "0121bde62eb643ebd938fe7850dbed644a8a6385897cf035056fec9d2a97562b"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
-git-tree-sha1 = "82a0ecdd1e2c563973ead1117b4b4a2003521dfe"
+git-tree-sha1 = "8e051f1ff15c08f56d20a8bac684e3e380df863d"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MAGEMin.download]]
-    sha256 = "6a414878aac766afb060f6d3a015367d201d0e795578cbb326954bcb7481db55"
-    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.3+0/MAGEMin.v2.0.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "ceffce080e5f0823606add723b676a41fd30add796fddf619a5541ca8b770bae"
+    url = "https://github.com/JuliaBinaryWrappers/MAGEMin_jll.jl/releases/download/MAGEMin-v2.0.4+0/MAGEMin.v2.0.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
